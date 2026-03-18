@@ -1,0 +1,7 @@
+student_id,first_name,last_name,email_address,course_id,grade,marks
+S101,Sanjana,Phalke,sanjanaphalke@sjsu.edu,DATA-200,A,96
+S102,John,Doe,john@sjsu.edu,DATA-201,A,90
+S103,Tanmay,Neve,tanmay.neve@sjsu.edu,DATA-202,B,80
+S104,Vinita,Shingavi,vinita.shingavi@sjsu.edu,DATA-201,B,78
+S105,Sudeep,Sharma,sudeep@sjsu.edu,DATA-200,C,70
+S106,Vinny,Smith,vinny.1@sjsu.edu,DATA-201,A,92
